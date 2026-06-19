@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+
+logs/*
+!logs/example/
+checkpoints/
+*.zip
+!models/example_model.zip
+*.avi
+
+.idea/
+.vscode/
+.DS_Store
